@@ -1,7 +1,7 @@
 # Investigating Employee Data
 
 ## Overview
-Created a database in PostgreSQL that included six tables of employee information (names, salaries, titles, etc.). Performed SQL queries in PostgreSQL, and then created histogram of employee salaries as well as a bar chart of employee salaries by title with Jupyter Notebook using SQLAlchemy and Pandas.
+Created a database in PostgreSQL that includes six tables of employee information (names, salaries, titles, etc.). Performed SQL queries in PostgreSQL, and then created histogram of employee salaries as well as a bar chart of employee salaries by title with Jupyter Notebook using SQLAlchemy and Pandas.
 
 ### Created a Database
 Created an employee database in PostgreSQL containing six tables. Created tables using code contained in the file, create_tables.sql. Imposed constraints such as specifying columns not to accept null values. Information for each table was imported from a CSV file (CSV data not included). The following ERD diagram shows table relationships, data types, primary keys, and foreign keys.
